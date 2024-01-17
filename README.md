@@ -1,4 +1,4 @@
-# Let Me Introduce Myself
+# Allow Me Introduce Myself
 
 I am currently a computer science student at the Colorado School of Mines, as well as a software developer at [Archytas Automation](https://archytasinc.com/).
 As such, most of my time is tied up in school or working on [HDI Harmony](https://hdiharmony.web.app), a no-code development environment for the Archytas Automation robot.
