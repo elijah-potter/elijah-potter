@@ -1,6 +1,6 @@
 # Allow Me Introduce Myself
 
-I am currently a computer science student at the Colorado School of Mines, as well as a software developer at [Tyler Technologies](https://www.tylertech.com/).
+I am currently a computer science student at the Colorado School of Mines, as well as a software developer intern at [Tyler Technologies](https://www.tylertech.com/).
 When I'm not occupied by those things, I'm usually working on [Harper](https://github.com/chilipepperhott/harper), a grammar checker for developers.
 
 Most of my writing ends up on my [personal website](https://elijahpotter.dev).
